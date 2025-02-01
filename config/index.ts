@@ -3,9 +3,9 @@ export const APP_ID = `${process.env.NEXT_PUBLIC_APP_ID}`
 export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
-  title: '成顺的智能小助理',
-  description: '',
-  copyright: '',
+  title: '~顺的智能小助理',
+  description: '你好，有什么可以帮助你的吗？',
+  copyright: 'https://dify.ai/',
   privacy_policy: '',
   default_language: 'zh-Hans',
 }
