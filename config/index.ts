@@ -4,8 +4,8 @@ export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
   title: '成顺的智能小助理',
-  description: '版权所有 © 2025 成顺的智能小助理 &nbsp; <a href="https://beian.miit.gov.cn/" target="_blank">赣ICP备2024040373号</a>',
-  copyright: '',
+  description: '',
+  copyright: '版权所有 © 2025 成顺的智能小助理 &nbsp; <a href="https://beian.miit.gov.cn/" target="_blank">赣ICP备2024040373号</a>',
   privacy_policy: '',
   default_language: 'zh-Hans',
 }
